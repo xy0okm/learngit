@@ -4,4 +4,8 @@ Git add row.
 git add another row.
 
 git change.
+<<<<<<< HEAD
 git a another.
+=======
+git .
+>>>>>>> feature1
